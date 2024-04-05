@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Sulabh Patel
+ *   All rights reserved.
+ */
 #ifndef DECK_H
 #define DECK_H
 
