@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Sulabh Patel
+ *   All rights reserved.
+ */
 // Each card gets a suit and value (2-10, J, Q, K, A)
 // getValue method (returns the value of the card)
 // getSuit method (returns the suit of the card)
