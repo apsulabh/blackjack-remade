@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Sulabh Patel
+ *   All rights reserved.
+ */
 #include "player.h"
 #include <numeric>
 #include <string>
