@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Sulabh Patel
+ *   All rights reserved.
+ */
 #include "deck.h"
 Deck::Deck() {
     reset();
