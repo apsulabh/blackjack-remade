@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2024 Sulabh Patel
+ *   All rights reserved.
+ */
 #ifndef PLAYER_H
 #define PLAYER_H
 #include "deck.h"
